@@ -20,18 +20,12 @@
 
 ### 🌌 About Me
 
-- - ✨ Turning ideas into real web applications  
-- 🚀 Currently learning DSA and backend development  
-- 🎯 Focused on MERN Stack and modern UI/UX  
+- 🚀 Currently learning DSA and backend development 
 - 🧠 Trying to write code that's cleaner than my browser tabs  
-- ⚡ I enjoy building interfaces that actually feel smooth to use  
-- 🌙 Most productive when everyone else is offline  
+- ⚡ I enjoy building interfaces that actually feel smooth to use   
 - 🔥 Improving one project at a time  
-
 <br>
-
-## 🎓 Education
-
+🎓 Education
 B.Tech in Computer Science Engineering • 4th Semester  
 📍 Rama University, Kanpur
 
