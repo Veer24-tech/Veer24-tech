@@ -18,17 +18,12 @@
 
 <img align="right" height="220" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
-### 🌌 About Me
-
-- 🚀 Currently learning DSA and backend development 
-- 🧠 Trying to write code that's cleaner than my browser tabs  
-- ⚡ I enjoy building interfaces that actually feel smooth to use   
-- 🔥 Improving one project at a time  
-<br>
-🎓 Education
-B.Tech in Computer Science Engineering • 4th Semester  
-📍 Rama University, Kanpur
-
+### 🌌 Fahhhhhhhhhh-
+Most of my coding time goes into finding why the code that “worked yesterday” suddenly hates me today.
+I build projects, break projects, then pretend it was part of the learning process.
+My search history is basically Stack Overflow, GitHub issues, and “why is my output wrong.
+Some people create memories in college — we create repositories and panic before deadlines.
+Still learning, still building, and still celebrating when the code runs without errors.
 <br>
 
 ---
