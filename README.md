@@ -10,6 +10,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veer24-tech&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+###
+
 <img align="right" height="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 ###
@@ -62,8 +68,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Veer24-tech/Veer24-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Veer24-tech/Veer24-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
