@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Virendra Kushwaha</h1>
 
 <h3 align="center">
-  MERN Stack Developer • DSA Learner • Building Cool Things for the Web 🚀
+  MERN Stack Developer • DSA Learner • Building Cool Things for the Web 
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Learning+DSA+%26+Backend;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+DSA+%26+Backend;Turning+Ideas+Into+Projects" alt="Typing SVG" />
 </div>
 
 
@@ -20,11 +20,22 @@
 
 ### 🌌 About Me
 
-- ✨ Turning ideas into full-stack web experiences  
-- 🚀 Currently learning **DSA & Backend Development**  
-- 🎯 Focused on **MERN Stack and modern UI/UX**  
-- 🌙 Most of my ideas arrive after midnight  
-- ⚡ Passionate about building clean & interactive websites  
+- - ✨ Turning ideas into real web applications  
+- 🚀 Currently learning DSA and backend development  
+- 🎯 Focused on MERN Stack and modern UI/UX  
+- 🧠 Trying to write code that's cleaner than my browser tabs  
+- ⚡ I enjoy building interfaces that actually feel smooth to use  
+- 🌙 Most productive when everyone else is offline  
+- 🔥 Improving one project at a time  
+
+<br>
+
+## 🎓 Education
+
+B.Tech in Computer Science Engineering • 4th Semester  
+📍 Rama University, Kanpur
+
+<br>
 
 ---
 
@@ -59,6 +70,4 @@
   <img src="https://raw.githubusercontent.com/Veer24-tech/Veer24-tech/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:70a5fd&height=120&section=footer"/>
-</div>
+
