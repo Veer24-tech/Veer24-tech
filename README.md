@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Virendra Kushwaha</h1>
+<h1 align="center">Hola! 👋, I'm Virendra Kushwaha</h1>
 
 <h3 align="center">
   MERN Stack Developer • DSA Learner • Building Cool Things for the Web 
