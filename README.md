@@ -30,7 +30,7 @@ and improving problem-solving skills.
 ### 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,bootstrap,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css,react,bootstrap,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
