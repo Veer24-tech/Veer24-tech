@@ -1,67 +1,125 @@
-<h1 align="center">Hola! 👋, I'm Virendra Kushwaha</h1>
-
-<h3 align="center">
-  MERN Stack Developer • DSA Learner • Building Cool Things for the Web
-</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+DSA+%26+Backend;Turning+Ideas+Into+Projects" alt="Typing SVG" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=850&lines=Hola+!+I+am+Virendra+Kushwaha+%3E_;MERN+Stack+Developer+%7C+DSA+Learner;Building+Homico+%F0%9F%8F%A0;Turning+Ideas+Into+Projects" />
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Veer24-tech&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+<img src="https://komarev.com/ghpvc/?username=veer24-tech&color=00ff41&label=Profile+Visits&style=flat-square"/>
+
 </div>
 
 ---
 
-<img align="right" height="220" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" height="220" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-### 🌌 Fahhhhhhhhhh-
+### 👋 About Me
 
-Most of my coding time goes into finding why the code that “worked yesterday” suddenly hates me today.
+```txt
+Virendra Kushwaha
+Rama University
 
-I build projects, break projects, then pretend it was part of the learning process.
+MERN Stack Developer
+DSA Learner
 
-My search history is basically Stack Overflow, GitHub issues, and "why is my output wrong".
-
-Some people create memories in college — we create repositories and panic before deadlines.
-
-Still learning, still building, and still celebrating when the code runs without errors.
-
-<br>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,vscode" />
-</div>
+Currently building Homico
+and improving problem-solving skills.
+```
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="left">
-  <a href="mailto:veerkushwaha212635@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/virendra-kushwaha-99750b374/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Veer24-tech&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Veer24-tech/Veer24-tech/output/pacman-contribution-graph-dark.svg" />
+<img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,react,bootstrap,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
+
+---
+
+### 🚀 Currently Building
+
+### 🏠 Featured Project
+
+**Homico** *(Work in Progress)*
+
+```txt
+A MERN-based housing and property platform
+designed to make property discovery simple
+and accessible.
+
+Tech Stack
+-----------
+MongoDB
+Express.js
+Node.js
+
+Features
+---------
+✓ Property Listings
+✓ User Authentication
+✓ Reviews & Ratings
+✓ Image Uploads
+✓ Responsive Design
+
+Status : 🚧 Under Development
+```
+
+> Building something useful, one commit at a time.
+---
+
+### 🧠 Problem Solving
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/veer24-tech?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=veer24-tech&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veer24-tech&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+### 🌱 Current Focus
+
+```txt
+• MERN Stack Development
+• Data Structures & Algorithms
+• Backend Development
+• Open Source Contributions
+• Building Real Projects
+```
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+
+<a href="mailto:veerkushwaha212635@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/virendra-kushwaha-99750b374/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/veer24-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Still learning, still building, still debugging."* 🚀
+
+</div>
